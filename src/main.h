@@ -1,0 +1,8 @@
+//
+// Created by weed1 on 11/13/2023.
+//
+
+#ifndef SIMPLIFIED_PAGE_RANK_MAIN_H
+#define SIMPLIFIED_PAGE_RANK_MAIN_H
+
+#endif //SIMPLIFIED_PAGE_RANK_MAIN_H
